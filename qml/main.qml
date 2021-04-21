@@ -71,7 +71,7 @@ Window {
     WebEngineView {
         id: webView
 
-        url: "http://www.ossystems.com.br"
+        url: "http://www.youtube.com"
 
         anchors.fill: parent
         visible: false
